@@ -1,0 +1,4 @@
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\Collections\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\Collections\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\Collections\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\Collections\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache

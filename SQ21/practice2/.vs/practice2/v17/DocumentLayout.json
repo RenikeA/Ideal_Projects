@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SQ21\\practice2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C905D1-2CBE-437E-B178-FF9C12D7E1F3}|practice2\\practice2.csproj|c:\\users\\zbook 14u g6\\desktop\\sq21\\practice2\\practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15C905D1-2CBE-437E-B178-FF9C12D7E1F3}|practice2\\practice2.csproj|solutionrelative:practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SQ21\\practice2\\practice2\\Program.cs",
+              "RelativeDocumentMoniker": "practice2\\Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SQ21\\practice2\\practice2\\Program.cs",
+              "RelativeToolTip": "practice2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T22:00:16.143Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

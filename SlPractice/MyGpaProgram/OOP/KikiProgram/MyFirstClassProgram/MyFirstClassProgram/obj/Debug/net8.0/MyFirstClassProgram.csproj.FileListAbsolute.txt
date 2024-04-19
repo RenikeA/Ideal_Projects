@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\bin\Debug\net8.0\MyFirstClassProgram.exe
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\bin\Debug\net8.0\MyFirstClassProgram.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\bin\Debug\net8.0\MyFirstClassProgram.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\bin\Debug\net8.0\MyFirstClassProgram.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\bin\Debug\net8.0\MyFirstClassProgram.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\refint\MyFirstClassProgram.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\MyFirstClassProgram.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\MyFirstClassProgram\MyFirstClassProgram\obj\Debug\net8.0\ref\MyFirstClassProgram.dll

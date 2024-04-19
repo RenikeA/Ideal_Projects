@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.exe
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\bin\Debug\net8.0\MyFirstProgram.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\refint\MyFirstProgram.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\MyFirstProgram.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyFirstProgram\MyFirstProgram\obj\Debug\net8.0\ref\MyFirstProgram.dll

@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\bin\Debug\net8.0\Week4Assignment.exe
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\bin\Debug\net8.0\Week4Assignment.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\bin\Debug\net8.0\Week4Assignment.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\bin\Debug\net8.0\Week4Assignment.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\bin\Debug\net8.0\Week4Assignment.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\refint\Week4Assignment.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\Week4Assignment.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\weekAssignment\Week4Assignment\Week4Assignment\obj\Debug\net8.0\ref\Week4Assignment.dll

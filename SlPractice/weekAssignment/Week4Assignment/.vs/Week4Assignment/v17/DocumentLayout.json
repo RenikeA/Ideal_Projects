@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|c:\\users\\zbook 14u g6\\desktop\\slpractice\\weekassignment\\week4assignment\\week4assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|solutionrelative:week4assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|c:\\users\\zbook 14u g6\\desktop\\slpractice\\weekassignment\\week4assignment\\week4assignment\\states\u0026capital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|solutionrelative:week4assignment\\states\u0026capital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|c:\\users\\zbook 14u g6\\desktop\\slpractice\\weekassignment\\week4assignment\\week4assignment\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|solutionrelative:week4assignment\\states.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|c:\\users\\zbook 14u g6\\desktop\\slpractice\\weekassignment\\week4assignment\\week4assignment\\carsjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F93FB0-D6A6-4F9D-95E7-8E174A710B8B}|Week4Assignment\\Week4Assignment.csproj|solutionrelative:week4assignment\\carsjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "States\u0026Capital.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\States\u0026Capital.cs",
+              "RelativeDocumentMoniker": "Week4Assignment\\States\u0026Capital.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\States\u0026Capital.cs",
+              "RelativeToolTip": "Week4Assignment\\States\u0026Capital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:59:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "States.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\States.cs",
+              "RelativeDocumentMoniker": "Week4Assignment\\States.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\States.cs",
+              "RelativeToolTip": "Week4Assignment\\States.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:32:07.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarsJoin.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\CarsJoin.cs",
+              "RelativeDocumentMoniker": "Week4Assignment\\CarsJoin.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\CarsJoin.cs",
+              "RelativeToolTip": "Week4Assignment\\CarsJoin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:21:49.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Week4Assignment\\Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\weekAssignment\\Week4Assignment\\Week4Assignment\\Program.cs",
+              "RelativeToolTip": "Week4Assignment\\Program.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAHEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T19:44:41.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

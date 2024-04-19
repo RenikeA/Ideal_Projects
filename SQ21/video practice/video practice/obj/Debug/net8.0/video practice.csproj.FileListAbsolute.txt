@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\bin\Debug\net8.0\video practice.exe
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\bin\Debug\net8.0\video practice.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\bin\Debug\net8.0\video practice.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\bin\Debug\net8.0\video practice.dll
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\bin\Debug\net8.0\video practice.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.dll
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\refint\video practice.dll
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\video practice.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\video practice\video practice\obj\Debug\net8.0\ref\video practice.dll

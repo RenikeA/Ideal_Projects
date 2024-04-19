@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\bin\Debug\net8.0\Day 2.exe
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\bin\Debug\net8.0\Day 2.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\bin\Debug\net8.0\Day 2.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\bin\Debug\net8.0\Day 2.dll
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\bin\Debug\net8.0\Day 2.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.dll
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\refint\Day 2.dll
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\Day 2.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SQ21\Day 2\Day 2\obj\Debug\net8.0\ref\Day 2.dll

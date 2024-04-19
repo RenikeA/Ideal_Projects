@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\MyGpaProgram\\OOP\\KikiProgram\\GiraffePractice\\GirrafeAcademyPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEF9595C-2CBE-496D-8DAA-FBF637AE10BA}|GirrafeAcademyPractice\\GirrafeAcademyPractice.csproj|c:\\users\\zbook 14u g6\\desktop\\slpractice\\mygpaprogram\\oop\\kikiprogram\\giraffepractice\\girrafeacademypractice\\girrafeacademypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEF9595C-2CBE-496D-8DAA-FBF637AE10BA}|GirrafeAcademyPractice\\GirrafeAcademyPractice.csproj|solutionrelative:girrafeacademypractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\MyGpaProgram\\OOP\\KikiProgram\\GiraffePractice\\GirrafeAcademyPractice\\GirrafeAcademyPractice\\Program.cs",
+              "RelativeDocumentMoniker": "GirrafeAcademyPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\ZBOOK 14U G6\\Desktop\\SlPractice\\MyGpaProgram\\OOP\\KikiProgram\\GiraffePractice\\GirrafeAcademyPractice\\GirrafeAcademyPractice\\Program.cs",
+              "RelativeToolTip": "GirrafeAcademyPractice\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T21:37:12.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

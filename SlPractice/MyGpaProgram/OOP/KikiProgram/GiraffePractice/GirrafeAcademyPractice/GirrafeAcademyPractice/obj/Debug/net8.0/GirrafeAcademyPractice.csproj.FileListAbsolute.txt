@@ -1,0 +1,14 @@
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\bin\Debug\net8.0\GirrafeAcademyPractice.exe
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\bin\Debug\net8.0\GirrafeAcademyPractice.deps.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\bin\Debug\net8.0\GirrafeAcademyPractice.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\bin\Debug\net8.0\GirrafeAcademyPractice.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\bin\Debug\net8.0\GirrafeAcademyPractice.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\refint\GirrafeAcademyPractice.dll
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.pdb
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\GirrafeAcademyPractice.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\Desktop\SlPractice\MyGpaProgram\OOP\KikiProgram\GiraffePractice\GirrafeAcademyPractice\GirrafeAcademyPractice\obj\Debug\net8.0\ref\GirrafeAcademyPractice.dll
